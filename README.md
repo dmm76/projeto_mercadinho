@@ -6,7 +6,7 @@ Bem-vindo ao repositório do **Sistema de Vendas para o Mercadinho Borba Gato**,
 
 ## 📸 Visão Geral
 
-> ✅ Acesse o sistema em funcionamento aqui: [🔗 GitHub Pages](https://seu-usuario.github.io/seu-repo/)
+> ✅ Acesse o sistema em funcionamento aqui: [🔗 GitHub Pages](https://dmm76.github.io/projeto_mercadinho/)
 
 ---
 
